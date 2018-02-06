@@ -1,5 +1,9 @@
 # PR
-
+### Run Project step-by-step
+    * Install python version 3.5
+    * Open Python IDLE
+    * Click File>Open>Select "hello.py" and click ADD
+    * Press F5 to run
 ### The Zen of Python
 
 Beautiful is better than ugly.<br/>
