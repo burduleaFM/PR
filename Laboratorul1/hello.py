@@ -1,6 +1,3 @@
-import os
-
-
 def hello(name):
     if not name:
         print("Lipseste numele")
